@@ -7,7 +7,7 @@ Google query:
 levert: 
 
     https://opac.geologie.ac.at/wwwopacx/wwwopac.ashx?  | Geologische Bundesanstalt Oostenrijk
-
+    
     http://amdata.adlibsoft.com/wwwopac.ashx? | Amsterdam Museum
 
     http://adlib.imf.org/digital_assets/wwwopac.ashx? | IMF
@@ -18,9 +18,9 @@ levert:
 
     http://adlib.zuiderzeemuseum.nl/api2/wwwopac.ashx? | Zuiderzeemuseum
 
-    http://service.aat-ned.nl/api/wwwopac.ashx  | AAT service RKD
+    http://service.aat-ned.nl/api/wwwopac.ashx  | AAT service RKD |
 
-    http://fabrique.adlib.legermuseum.nl/api/wwwopac.ashx | Legermuseum
+    http://fabrique.adlib.legermuseum.nl/api/wwwopac.ashx | Legermuseum 
      
     http://mmr.adlibhosting.com/madigopacx/wwwopac.ashx | Maritiem Digitaal 
 
@@ -33,3 +33,11 @@ Commando's
     database=[]&getmetadata
     database=[]&search=all&limit=X&startpriref=Y
     
+Adlib DB definities:
+    https://opac.geologie.ac.at/wwwopacx/adlibweb.xml
+    http://amdata.adlibsoft.com/adlibweb.xml
+    http://igem.adlibsoft.com/wwwopacx/adlibweb.xml
+    http://service.aat-ned.nl/api/adlibweb.xml
+    http://fabrique.adlib.legermuseum.nl/api/adlibweb.xml
+    http://mmr.adlibhosting.com/madigopacx/adlibweb.xml
+    http://collectie.groningermuseum.nl/webapi/adlibweb.xml
