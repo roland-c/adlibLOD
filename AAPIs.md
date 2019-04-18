@@ -35,8 +35,9 @@ Commando's
     
 Adlib DB definities:
 
-    [https://opac.geologie.ac.at/wwwopacx/adlibweb.xml|https://opac.geologie.ac.at/wwwopacx/adlibweb.xml]    
-    [http://amdata.adlibsoft.com/adlibweb.xml|http://amdata.adlibsoft.com/adlibweb.xml]
+    https://opac.geologie.ac.at/wwwopacx/adlibweb.xml
+    
+    http://amdata.adlibsoft.com/adlibweb.xml
     
     http://igem.adlibsoft.com/wwwopacx/adlibweb.xml
     
