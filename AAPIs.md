@@ -34,17 +34,18 @@ Commando's
     database=[]&search=all&limit=X&startpriref=Y
     
 Adlib DB definities:
-    [https://opac.geologie.ac.at/wwwopacx/adlibweb.xml]
+
+    <https://opac.geologie.ac.at/wwwopacx/adlibweb.xml>
     
-    [http://amdata.adlibsoft.com/adlibweb.xml]
+    <http://amdata.adlibsoft.com/adlibweb.xml>
     
-    [http://igem.adlibsoft.com/wwwopacx/adlibweb.xml]]
+    <http://igem.adlibsoft.com/wwwopacx/adlibweb.xml>
     
-    [http://service.aat-ned.nl/api/adlibweb.xml]
+    <http://service.aat-ned.nl/api/adlibweb.xml>
     
-    [http://fabrique.adlib.legermuseum.nl/api/adlibweb.xml]
+    <http://fabrique.adlib.legermuseum.nl/api/adlibweb.xml>
     
-    [http://mmr.adlibhosting.com/madigopacx/adlibweb.xml]
+    <http://mmr.adlibhosting.com/madigopacx/adlibweb.xml>
     
-    [http://collectie.groningermuseum.nl/webapi/adlibweb.xml]
+    <http://collectie.groningermuseum.nl/webapi/adlibweb.xml>
     
